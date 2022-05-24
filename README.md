@@ -1,4 +1,4 @@
-### Welcome to codingWithRach
+# Welcome to codingWithRach
 
 ## Projects implemented on TechReturners programme
 
